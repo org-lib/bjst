@@ -2,6 +2,12 @@
 
 构建基础开发环境避免重复配置基础开发环境的梗
 
+1）env配置环境
+
+yarn add dotenv -D
+
+yarn add @types/node -D
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
