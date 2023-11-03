@@ -9,11 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "tslib": "^2.6.2",
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@babylonjs/core": "^6.28.0",
+    "@babylonjs/gui": "^6.28.0",
+    "@babylonjs/loaders": "^6.28.0",
     "@types/node": "^20.8.10",
     "@vitejs/plugin-vue": "^4.2.3",
+    "babylonjs-gltf2interface": "^6.28.0",
     "dotenv": "^16.3.1",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
