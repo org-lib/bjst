@@ -1,5 +1,6 @@
 import { Engine, MorphTargetManager, NativeEngine, WebGPUEngine, DefaultLoadingScreen } from "@babylonjs/core";
 import { CreatePlaygroundScene } from "./Playground/playground";
+import "@babylonjs/loaders/glTF";
 
 export const useWebGPU = false;
 export var useNative = false;
